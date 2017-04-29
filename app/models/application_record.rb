@@ -1,6 +1,6 @@
 class ApplicationRecord < ActiveRecord::Base
   self.abstract_class = true
 
-  NEIGHBOURHOODS = ["Eixample", "Sant Marti", "Gracia", "Ciutat Vella", "Sants-Montjuïc", "Sarrià-Sant Gervasi", "Les Corts", "Horta-Guinardó", "Nou Barris", "Sant Andreu"].sort
-  CITIES = ["Barcelona"]
+  NEIGHBOURHOODS = ["Centre", "LLevant", "Sud", "Ponent", "Nord-oest", "Nord-est"].sort
+  CITIES = ["Terrassa"]
 end
