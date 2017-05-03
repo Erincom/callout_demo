@@ -82,7 +82,7 @@ es:
       edit:
         first_name_label: "Nombre"
         last_name_label: "Apellido"
-        address_label: "Dirección"
+        address_label: "Código Postal"
         city_label: "Ciudad"
         neighbourhood_label: "Barrio"
       #   email_placeholder: "Edita tu dirección de email"
